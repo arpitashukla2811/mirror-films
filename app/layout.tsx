@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 
 export const metadata = {
-  title: "Mirror Films",
+  title: "Mirrro Films",
   description: "Mirrro Films — Motion Picture Production",
 };
 
