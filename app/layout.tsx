@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 
 export const metadata = {
   title: "Mirror Films",
-  description: "Mirror Films — Motion Picture Production",
+  description: "Mirrro Films — Motion Picture Production",
 };
 
 export default function RootLayout({
