@@ -6,8 +6,14 @@ import Footer from "./components/Footer";
 
 
 export const metadata = {
+  metadataBase: new URL("https://www.mirrrofilms.com"),
+
   title: "Mirrro Films",
-  description: "Mirrro Films — Motion Picture Production",
+  description: "Cinema • Stories • Visual Poetry",
+
+  alternates: {
+    canonical: "https://www.mirrrofilms.com",
+  },
 };
 
 export default function RootLayout({
